@@ -8,10 +8,11 @@
     "node": "*"
   },
   "peerDependencies": {
-    "vue": "^2.3.4"
+    "vue": "^3.3.4"
   },
   "devDependencies": {
     "@types/tape": "^4.2.30",
+    "@vue/compiler-sfc": "^3.3.4",
     "avoriaz": "^2.4.1",
     "babel-core": "^6.23.1",
     "babel-loader": "^6.3.2",
@@ -26,10 +27,9 @@
     "rimraf": "^2.6.0",
     "tap-spec": "^4.1.1",
     "tape": "^4.7.0",
-    "vue": "^2.3.4",
-    "vue-loader": "^11.1.0",
+    "vue": "^3.3.4",
+    "vue-loader": "^14.2.4",
     "vue-node": "^1.1.1",
-    "vue-template-compiler": "^2.3.4",
     "webpack": "^2.2.0",
     "webpack-dev-server": "^2.4.0"
   },
